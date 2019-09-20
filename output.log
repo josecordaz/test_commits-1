@@ -1,0 +1,220 @@
+!SHA: b0fd57699ad1b3d9843b596129b79297ceed389a
+!Parents: 
+!Committer: josecordaz@gmail.com
+!CName: JOSE CARLOS ORDAZ CRIZANTOS
+!Author: josecordaz@gmail.com
+!AName: JOSE CARLOS ORDAZ CRIZANTOS
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-03-09T13:36:27-08:00
+!Message: First commit
+
+:000000 100644 0000000 cb04f3e A	index.js
+1	0	index.js
+
+!SHA: ff5a3c1c06aeb0bd62d0b51613eccdefdbd3dff5
+!Parents: b0fd57699ad1b3d9843b596129b79297ceed389a
+!Committer: josecordaz@gmail.com
+!CName: JOSE CARLOS ORDAZ CRIZANTOS
+!Author: josecordaz@gmail.com
+!AName: JOSE CARLOS ORDAZ CRIZANTOS
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-03-09T13:37:15-08:00
+!Message: Second commit
+
+:100644 100644 cb04f3e 165cfc3 M	index.js
+1	0	index.js
+
+!SHA: 806e38a5df893af0f99b5a53078f4569d65a7419
+!Parents: ff5a3c1c06aeb0bd62d0b51613eccdefdbd3dff5
+!Committer: josecordaz@gmail.com
+!CName: JOSE CARLOS ORDAZ CRIZANTOS
+!Author: josecordaz@gmail.com
+!AName: JOSE CARLOS ORDAZ CRIZANTOS
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-03-09T13:38:09-08:00
+!Message: First PR commit
+
+:100644 100644 165cfc3 c090ec7 M	index.js
+1	0	index.js
+
+!SHA: df65f2adb66fe4a39e506948c7fc6afefb35680f
+!Parents: 806e38a5df893af0f99b5a53078f4569d65a7419
+!Committer: josecordaz@gmail.com
+!CName: JOSE CARLOS ORDAZ CRIZANTOS
+!Author: josecordaz@gmail.com
+!AName: JOSE CARLOS ORDAZ CRIZANTOS
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-03-09T13:38:49-08:00
+!Message: Second PR commit
+
+:100644 100644 c090ec7 b3003f0 M	index.js
+1	0	index.js
+
+!SHA: 4c5917692768644a870ae9c20e107cf6567a8766
+!Parents: df65f2adb66fe4a39e506948c7fc6afefb35680f
+!Committer: josecordaz@gmail.com
+!CName: JOSE CARLOS ORDAZ CRIZANTOS
+!Author: josecordaz@gmail.com
+!AName: JOSE CARLOS ORDAZ CRIZANTOS
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-03-09T13:39:29-08:00
+!Message: Third PR commit
+
+:100644 100644 b3003f0 6d58681 M	index.js
+1	0	index.js
+
+!SHA: 55dad972a963ded691ed0afec4ce362e19b0a9fd
+!Parents: ff5a3c1c06aeb0bd62d0b51613eccdefdbd3dff5 4c5917692768644a870ae9c20e107cf6567a8766
+!Committer: noreply@github.com
+!CName: GitHub
+!Author: josecordaz@gmail.com
+!AName: josecordaz
+!Signed-Key: 4AEE18F83AFDEB23
+!Date: 2019-03-09T13:40:01-08:00
+!Message: Merge pull request #1 from josecordaz/pr
+
+3	0	index.js
+
+!SHA: 41ce79b4c30369327533845cf544886e7c7b64ef
+!Parents: 55dad972a963ded691ed0afec4ce362e19b0a9fd
+!Committer: josecordaz@gmail.com
+!CName: JOSE CARLOS ORDAZ CRIZANTOS
+!Author: josecordaz@gmail.com
+!AName: JOSE CARLOS ORDAZ CRIZANTOS
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-03-09T13:42:46-08:00
+!Message: Third commit directly on on master
+
+:100644 100644 6d58681 f3ec8ab M	index.js
+1	0	index.js
+
+!SHA: 95ae52947b5b663d1f531b9260ee0c26d304778a
+!Parents: 41ce79b4c30369327533845cf544886e7c7b64ef
+!Committer: josecordaz@gmail.com
+!CName: Jose Carlos Ordaz
+!Author: josecordaz@gmail.com
+!AName: Jose Carlos Ordaz
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-08-07T19:14:42-05:00
+!Message: test
+
+:000000 100644 0000000 e69de29 A	tmp.tmp
+0	0	tmp.tmp
+
+!SHA: b28b0e988bd91e2aea5f23a8a7573ddca6ce33c2
+!Parents: 41ce79b4c30369327533845cf544886e7c7b64ef
+!Committer: cordaz@pinpoint.com
+!CName: Jose C Ordaz
+!Author: cordaz@pinpoint.com
+!AName: Jose C Ordaz
+!Signed-Key: A5ACD704E46F9859
+!Date: 2019-08-09T16:26:20-05:00
+!Message: test
+
+:000000 100644 0000000 e69de29 A	tmp
+0	0	tmp
+
+!SHA: f2321eff83e4e02457b361efb49666365f3c3906
+!Parents: b28b0e988bd91e2aea5f23a8a7573ddca6ce33c2 95ae52947b5b663d1f531b9260ee0c26d304778a
+!Committer: cordaz@pinpoint.com
+!CName: Jose C Ordaz
+!Author: cordaz@pinpoint.com
+!AName: Jose C Ordaz
+!Signed-Key: A5ACD704E46F9859
+!Date: 2019-08-09T16:26:25-05:00
+!Message: Merge branch 'master' of https://github.com/josecordaz/test_commits
+
+0	0	tmp.tmp
+
+!SHA: 51be72835a04336d9fc125db77c103103f18a4db
+!Parents: f2321eff83e4e02457b361efb49666365f3c3906
+!Committer: cordaz@pinpoint.com
+!CName: Jose C Ordaz
+!Author: cordaz@pinpoint.com
+!AName: Jose C Ordaz
+!Signed-Key: A5ACD704E46F9859
+!Date: 2019-08-09T16:27:18-05:00
+!Message: test2
+
+:100644 000000 e69de29 0000000 D	tmp
+:100644 000000 e69de29 0000000 D	tmp.tmp
+0	0	tmp
+0	0	tmp.tmp
+
+!SHA: b8d9a3f299854399a768c592ea3a2cc30cace2c7
+!Parents: 51be72835a04336d9fc125db77c103103f18a4db
+!Committer: cordaz@pinpoint.com
+!CName: Jose C Ordaz
+!Author: cordaz@pinpoint.com
+!AName: Jose C Ordaz
+!Signed-Key: A5ACD704E46F9859
+!Date: 2019-08-09T17:40:51-05:00
+!Message: code
+
+:000000 100644 0000000 e69de29 A	dir/algo
+0	0	dir/algo
+
+!SHA: 182bc578fe4eab0dcdf539b969eb0b26dd45f4c5
+!Parents: b8d9a3f299854399a768c592ea3a2cc30cace2c7
+!Committer: josecordaz@gmail.com
+!CName: Jose Carlos Ordaz
+!Author: josecordaz@gmail.com
+!AName: Jose Carlos Ordaz
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-09-15T01:37:32-05:00
+!Message: testing change name
+
+:100644 100644 e69de29 e69de29 R100	dir/algo	dir/algo2
+0	0	dir/{algo => algo2}
+
+!SHA: c8de9bb3ef5cd803618db55dd1b72355ad518b5b
+!Parents: 182bc578fe4eab0dcdf539b969eb0b26dd45f4c5
+!Committer: josecordaz@gmail.com
+!CName: Jose Carlos Ordaz
+!Author: josecordaz@gmail.com
+!AName: Jose Carlos Ordaz
+!Signed-Key: B2E4F833CF3B39DD
+!Date: 2019-09-19T04:53:45-05:00
+!Message: fixed test
+
+:100644 100644 f3ec8ab b46b669 M	index.js
+4	4	index.js
+
+!SHA: 44b003426640c18ebdbba1cbebba8975162f1a66
+!Parents: c8de9bb3ef5cd803618db55dd1b72355ad518b5b
+!Committer: cordaz@pinpoint.com
+!CName: Jose C Ordaz
+!Author: cordaz@pinpoint.com
+!AName: Jose C Ordaz
+!Signed-Key: ABD334FB9F78F89C
+!Date: 2019-09-20T10:20:02-05:00
+!Message: rename test
+
+:100644 100644 b46b669 b46b669 R100	index.js	index2.js
+0	0	index.js => index2.js
+
+!SHA: 2be29eb8e2b2fdfc8a52ac8eccc012a993583a70
+!Parents: 44b003426640c18ebdbba1cbebba8975162f1a66
+!Committer: cordaz@pinpoint.com
+!CName: Jose C Ordaz
+!Author: cordaz@pinpoint.com
+!AName: Jose C Ordaz
+!Signed-Key: ABD334FB9F78F89C
+!Date: 2019-09-20T11:36:00-05:00
+!Message: test copy file
+
+:000000 100644 0000000 b46b669 A	index.js
+6	0	index.js
+
+!SHA: a88eaae0c761cb0e3e8a851d5fa8b46a2869c349
+!Parents: 2be29eb8e2b2fdfc8a52ac8eccc012a993583a70
+!Committer: cordaz@pinpoint.com
+!CName: Jose C Ordaz
+!Author: cordaz@pinpoint.com
+!AName: Jose C Ordaz
+!Signed-Key: ABD334FB9F78F89C
+!Date: 2019-09-20T12:39:39-05:00
+!Message: test
+
+:000000 100644 0000000 b46b669 A	dir/index.js
+6	0	dir/index.js
