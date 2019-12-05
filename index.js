@@ -5,3 +5,4 @@ console.log("Second commit for PR");
 console.log("Third commit for PR");
 console.log("Third commit on master");
 console.log("one more");
+console.log("2");
