@@ -1,0 +1,5 @@
+subject
+
+message
+
+see: HEAD~2
